@@ -1,0 +1,15 @@
+{
+  "token": "tokenbotkalian <-harus diganti",
+  "prefix": "p?",
+  "serverAddress": "play.vanevo.fun mabar bang<-harus diganti",
+  "serverPort": "25571 jangan lupa join discord gw<-harus diganti",
+  "serverName": "Vanevo https://discord.gg/wbjVpw5JQZ <-harus diganti",
+  "updateInterval": "1min",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true,
+  "pinId": "pin id kalen<-terserah",
+  "pinGuildId": "discord grub kalen<-harus diganti",
+  "pinChanId": "channel id kalen<-harus diganti"
+}
